@@ -1,0 +1,49 @@
+.menu {
+    text-align: center;
+}
+
+#all-span-label {
+    width: 125px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    float: right;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+section {
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+.chicken {
+    background-color: lightpink;
+    color: black;
+}
+
+.beef {
+    background-color: salmon;
+    color: rgb(240, 235, 235);
+}
+
+.sushi {
+    background-color: burlywood;
+    color: black;
+}
+
+#p-content {
+    /* position: absolute;
+    
+    
+    margin-left: 20px;
+    margin-right: 20px; */
+    display: inline-block;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40%;
+}
