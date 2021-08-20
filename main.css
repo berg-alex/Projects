@@ -1,0 +1,75 @@
+/* @media only screen and (min-width : 768px) {
+    menu {
+         display: none!important;
+     }
+ } */
+
+/* .menu {
+    text-align: center;
+} */
+
+header {
+    background-color: lightgray;
+}
+
+.navbar-brand {
+ font-weight: bold;
+ font-size:xx-large;
+}
+
+#all-span-label {
+    width: 125px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.chickenAlign {
+    text-align: center;
+    font-size: 125%;
+}
+
+.collapse {
+    text-align: center;
+}
+
+.container-fluid {
+    background-color: lightgray;
+}
+
+h5.text-black.h4 {
+    border: black 2px solid;
+    padding: none;
+    margin: 0;
+}
+
+.navbar {
+    background-color: lightgray;
+    padding: 0 0 0 0;
+}
+
+section {
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+.chicken {
+    color: black;
+}
+
+#p-content {
+    /* position: absolute;
+    
+    
+    margin-left: 20px;
+    margin-right: 20px; */
+    display: inline-block;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* font-size: 40%; */
+}
